@@ -58,13 +58,18 @@ const presentations = [
 ];
 
 // Utility functions
+const today = new Date();
+today.setHours(0, 0, 0, 0); // Normalize to start of day
+
 function formatDate(dateString) {
     const options = { year: 'numeric', month: 'long', day: 'numeric' };
     return new Date(dateString).toLocaleDateString('en-US', options);
 }
 
 function isUpcoming(dateString) {
-    return new Date(dateString) > new Date();
+    const date = new Date(dateString);
+    date.setHours(0, 0, 0, 0); // Normalize to start of day
+    return date >= today;
 }
 
 // Home page functionality

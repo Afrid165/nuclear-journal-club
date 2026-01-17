@@ -23,8 +23,7 @@ The website is a static site built with HTML, CSS, and JavaScript:
 ├── archive.html        # Past presentations archive
 ├── about.html          # About the journal club
 ├── styles.css          # Styling for all pages
-├── script.js           # JavaScript for dynamic content
-├── data.json           # Presentation data (for reference)
+├── script.js           # JavaScript for dynamic content and data
 └── README.md           # This file
 ```
 
