@@ -1,8 +1,8 @@
 # Nuclear Physics Journal Club
 
-Welcome to the Nuclear Physics Journal Club.
+Welcome to the Nuclear Physics Journal Club! 
 
-We discuss recent papers in Heavy Ion Collisions Theory and Phenomenology:
+We discuss papers in different aspects of Heavy Ion Collisions Theory and Phenomenology:
 - Initial State
 - Thermalization
 - Relativistic Hydrodynamics
