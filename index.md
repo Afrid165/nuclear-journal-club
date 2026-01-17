@@ -1,4 +1,7 @@
-# Home
+---
+title: Home
+---
+
 
 Welcome to the Nuclear Physics Journal Club! 
 
