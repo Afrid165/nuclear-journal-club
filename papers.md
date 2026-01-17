@@ -1,9 +1,20 @@
 # Papers
 
-## Heavy-Ion Collisions
-- [arXiv:2401.12345](https://arxiv.org/abs/2401.12345)
-- [PRC 107, 044901]
+## Initial State
 
-## Bayesian Methods
-- [arXiv:2309.00001](https://arxiv.org/abs/2309.00001)
+
+## Thermalization, Relativistic Hydrodynamics
+
+
+## Collective Flow and Correlations
+
+## Hard Probes and Electromagnetic Probes 
+
+## QCD Phase Diagram and Beam Energy Scan Physics
+
+## Spin and Vorticity
+
+## Small Systems and Collectivity, Nuclear Structure
+
+## Machine Learning Methods and Bayesian Statistics
 
