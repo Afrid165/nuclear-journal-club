@@ -1,4 +1,4 @@
-# Nuclear Physics Journal Club
+# Home
 
 Welcome to the Nuclear Physics Journal Club! 
 
