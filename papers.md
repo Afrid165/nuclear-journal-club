@@ -1,4 +1,7 @@
-# Example Papers
+---
+title: Example Papers
+---
+
 
 ## Initial State
 
