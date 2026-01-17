@@ -1,0 +1,59 @@
+{
+  "presentations": [
+    {
+      "id": 1,
+      "date": "2026-01-20",
+      "title": "Quantum Chromodynamics and the Proton Spin Crisis",
+      "presenter": "Dr. Sarah Johnson",
+      "authors": "Smith, J., et al.",
+      "journal": "Physical Review Letters",
+      "year": 2025,
+      "abstract": "Recent advances in understanding the proton spin structure through lattice QCD calculations and experimental measurements.",
+      "status": "upcoming"
+    },
+    {
+      "id": 2,
+      "date": "2026-01-27",
+      "title": "Nuclear Structure in Neutron-Rich Isotopes Near the Drip Line",
+      "presenter": "Michael Chen",
+      "authors": "Anderson, K., et al.",
+      "journal": "Nature Physics",
+      "year": 2025,
+      "abstract": "Experimental investigation of exotic nuclear structures in neutron-rich isotopes approaching the neutron drip line.",
+      "status": "upcoming"
+    },
+    {
+      "id": 3,
+      "date": "2026-01-13",
+      "title": "Heavy-Ion Collisions and the Quark-Gluon Plasma",
+      "presenter": "Prof. Emily Rodriguez",
+      "authors": "Johnson, M., et al.",
+      "journal": "Physical Review C",
+      "year": 2025,
+      "abstract": "Analysis of collective flow and jet quenching in ultra-relativistic heavy-ion collisions at RHIC and LHC energies.",
+      "status": "past"
+    },
+    {
+      "id": 4,
+      "date": "2026-01-06",
+      "title": "Nuclear Reactions for Astrophysics: The r-process",
+      "presenter": "Dr. James Wilson",
+      "authors": "Lee, S., et al.",
+      "journal": "The Astrophysical Journal",
+      "year": 2024,
+      "abstract": "Theoretical calculations of nuclear reaction rates relevant to rapid neutron capture process nucleosynthesis.",
+      "status": "past"
+    },
+    {
+      "id": 5,
+      "date": "2025-12-16",
+      "title": "Chiral Effective Field Theory in Nuclear Physics",
+      "presenter": "Dr. Amanda Martinez",
+      "authors": "Brown, T., et al.",
+      "journal": "Reviews of Modern Physics",
+      "year": 2024,
+      "abstract": "Systematic approach to nuclear forces and currents using chiral effective field theory.",
+      "status": "past"
+    }
+  ]
+}
