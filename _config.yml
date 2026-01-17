@@ -1,4 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 title: Nuclear Physics Journal Club
 description: Discussions on heavy-ion collisions and QCD
+plugins:
+  - jekyll-remote-theme
 
