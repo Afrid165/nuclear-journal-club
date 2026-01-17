@@ -1,4 +1,6 @@
-# Participants
+---
+title: Participants
+---
 
 - Prof. Chun Shen
 - Graduate students
