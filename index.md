@@ -3,9 +3,11 @@ title: Home
 ---
 
 
-Welcome to the Nuclear Physics Journal Club! 
+## Welcome to the Nuclear Physics Journal Club! 
 
-We discuss papers in different aspects of Heavy Ion Collisions Theory and Phenomenology:
+Our **Nuclear Physics Journal Club** is a student friendly space to discuss recent developments in theory and phenomenology of **Heavy Ion Collisions**.
+
+## Topics to be explored
 - Initial State
 - Thermalization
 - Relativistic Hydrodynamics
@@ -17,5 +19,8 @@ We discuss papers in different aspects of Heavy Ion Collisions Theory and Phenom
 - Small Systems and Collectivity, Nuclear Structure
 - Machine Learning Methods and Bayesian Statistics
 
-📅 Meetings: Fridays 3–4 PM  
-📍 Location: Physics Building, Room 312
+--- ### 📅 Meeting Information
+- **Time:** Fridays, 3:00 – 4:00 PM  
+- **Location:** Physics Building, Room 312  
+
+All graduate students are encouraged to attend and ask questions!
