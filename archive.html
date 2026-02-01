@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Past Presentations Archive - Nuclear Journal Club">
+    <title>Archive - Nuclear Journal Club</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <h1 class="logo">Nuclear Journal Club</h1>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="schedule.html">Schedule</a></li>
+                    <li><a href="archive.html" class="active">Archive</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <h2>Presentation Archive</h2>
+                <p>Past journal club presentations</p>
+            </div>
+        </section>
+
+        <section class="archive-section">
+            <div class="container">
+                <div class="filter-controls">
+                    <input type="text" id="search-archive" placeholder="Search by title, author, or presenter..." aria-label="Search presentations" />
+                    <select id="year-filter" aria-label="Filter by year">
+                        <option value="">All Years</option>
+                    </select>
+                </div>
+                <div id="archive-list" class="archive-list">
+                    <!-- Dynamically populated -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Wayne State Nuclear Theory Group. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
